@@ -1,0 +1,4 @@
+Chinh sua thong tin san pham o trang top
+-- snippets\product-card-grid.liquid
+Khoi text 3 gioi thieu thong tin san pham
+--sections\feature-columns.liquid
